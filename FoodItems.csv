@@ -1,0 +1,26 @@
+item_id,category_id,name,price,availability,description
+1,1,Veg Sandwich,40,1,
+2,1,Poha,30,1,
+3,2,Masala Chai,15,1,
+4,2,Cold Coffee,35,1,
+5,3,Samosa,20,1,
+6,1,Aloo Paratha,35,1,Stuffed potato flatbread with curd
+7,1,Idli Sambar,30,1,Steamed rice cakes with lentil soup
+8,1,Upma,25,1,Semolina breakfast dish
+9,2,Filter Coffee,20,1,South Indian style coffee
+10,2,Lemon Soda,25,1,Refreshing lime soda
+11,2,Mango Shake,40,1,Fresh mango milkshake
+12,3,Veg Puff,18,1,Flaky pastry with veg filling
+13,3,French Fries,45,1,Crispy potato fries
+14,3,Spring Roll,50,1,Crispy vegetable rolls
+15,4,Veg Thali,90,1,"Full meal with dal, sabzi, rice, roti"
+16,4,Paneer Butter Masala,80,1,Served with rice or roti
+17,4,Chole Bhature,60,1,Spicy chickpeas with fried bread
+18,4,Veg Biryani,70,1,Fragrant rice with mixed vegetables
+19,4,Dal Khichdi,55,0,"Comfort food, currently unavailable"
+20,5,Gulab Jamun,30,1,Sweet milk dumplings in syrup
+21,5,Ice Cream Cup,35,1,Vanilla / chocolate / strawberry
+22,5,Fruit Custard,40,1,Mixed fruits with custard
+23,5,Brownie,45,1,Chocolate brownie with nuts
+24,1,Bread Omelette,30,1,Eggs with buttered bread
+25,2,Fresh Lime Water,15,1,Simple and refreshing
